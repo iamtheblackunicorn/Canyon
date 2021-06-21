@@ -32,7 +32,7 @@ $ git clone https://github.com/iamtheblackunicorn/Canyon.git
 ```bash
 $ cd Canyon
 ```
-- 3.) Fill in the Java Keystore password in the file `android/app/key.properties`. I am assuming you already have a Java Keystore in the form of a file called `key.jks` with the alias of `key`. If you don't, find out how to generate on by clicking [here]().
+- 3.) Fill in the Java Keystore password in the file `android/app/key.properties`. I am assuming you already have a Java Keystore in the form of a file called `key.jks` with the alias of `key`. If you don't, find out how to generate on by clicking [here](https://developer.android.com/studio/publish/app-signing#generate-key).
 - 4.) Move the Java Keystore to `android/app`.
 - 5.) Compile a binary distribution to install on your device(s):
 ```bash
