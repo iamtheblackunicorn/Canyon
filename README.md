@@ -12,13 +12,9 @@ Recently I have been studying how Flutter's `CustomPaint` widget works and wante
 a Game Boy Pocket game as an Android app using Flutter. Short answer: Yes! Long answer: It's an experimental project, so
 don't expect too much!
 
-## Dedication :heart:
-
-This project is dedicated to my Mom and my Dad.
-
 ## Downloads :inbox_tray:
 
-- ***Moyai (Version 1.0.0): [Download for Android!]() (15.9 MB)***
+- ***Moyai (Version 1.0.0): [Download for Android!](https://github.com/iamtheblackunicorn/Canyon/releases/download/v.1.0.0/Canyon-v1.0.0-Moyai-Release.apk) (15.9 MB)***
 
 ## Building & Compilation :hammer:
 If you want to make a build for Android, make sure you have the following tools installed:
@@ -54,5 +50,5 @@ $ clear && flutter build apk
 
 ## Note :scroll:
 
-- *Acid Time :moyai: :pill:* by Alexander Abraham :black_heart: a.k.a. *"The Black Unicorn" :unicorn:*
+- *Acid Time :moyai:* by Alexander Abraham :black_heart: a.k.a. *"The Black Unicorn" :unicorn:*
 - Licensed under the MIT license.
