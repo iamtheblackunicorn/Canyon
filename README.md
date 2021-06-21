@@ -54,5 +54,5 @@ $ clear && flutter build apk
 
 ## Note :scroll:
 
-- *Acid Time :rainbow: :pill:* by Alexander Abraham :black_heart: a.k.a. *"The Black Unicorn" :unicorn:*
+- *Acid Time :moyai: :pill:* by Alexander Abraham :black_heart: a.k.a. *"The Black Unicorn" :unicorn:*
 - Licensed under the MIT license.
